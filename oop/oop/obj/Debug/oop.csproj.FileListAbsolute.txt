@@ -1,0 +1,7 @@
+C:\Users\Sohail Kaiser\Desktop\C#- Coding tasks\oop\oop\bin\Debug\oop.exe.config
+C:\Users\Sohail Kaiser\Desktop\C#- Coding tasks\oop\oop\bin\Debug\oop.exe
+C:\Users\Sohail Kaiser\Desktop\C#- Coding tasks\oop\oop\bin\Debug\oop.pdb
+C:\Users\Sohail Kaiser\Desktop\C#- Coding tasks\oop\oop\obj\Debug\oop.csprojAssemblyReference.cache
+C:\Users\Sohail Kaiser\Desktop\C#- Coding tasks\oop\oop\obj\Debug\oop.csproj.CoreCompileInputs.cache
+C:\Users\Sohail Kaiser\Desktop\C#- Coding tasks\oop\oop\obj\Debug\oop.exe
+C:\Users\Sohail Kaiser\Desktop\C#- Coding tasks\oop\oop\obj\Debug\oop.pdb
