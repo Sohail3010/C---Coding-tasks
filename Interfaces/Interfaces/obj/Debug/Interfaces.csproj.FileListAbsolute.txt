@@ -1,0 +1,7 @@
+C:\Users\Sohail Kaiser\Desktop\C#- Coding tasks\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\Sohail Kaiser\Desktop\C#- Coding tasks\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\Sohail Kaiser\Desktop\C#- Coding tasks\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Sohail Kaiser\Desktop\C#- Coding tasks\Interfaces\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\Sohail Kaiser\Desktop\C#- Coding tasks\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Sohail Kaiser\Desktop\C#- Coding tasks\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\Sohail Kaiser\Desktop\C#- Coding tasks\Interfaces\Interfaces\obj\Debug\Interfaces.pdb
