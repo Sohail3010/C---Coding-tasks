@@ -1,0 +1,7 @@
+C:\Users\Sohail Kaiser\Desktop\C#- Coding tasks\Collections\Collections\bin\Debug\Collections.exe.config
+C:\Users\Sohail Kaiser\Desktop\C#- Coding tasks\Collections\Collections\bin\Debug\Collections.exe
+C:\Users\Sohail Kaiser\Desktop\C#- Coding tasks\Collections\Collections\bin\Debug\Collections.pdb
+C:\Users\Sohail Kaiser\Desktop\C#- Coding tasks\Collections\Collections\obj\Debug\Collections.csprojAssemblyReference.cache
+C:\Users\Sohail Kaiser\Desktop\C#- Coding tasks\Collections\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\Sohail Kaiser\Desktop\C#- Coding tasks\Collections\Collections\obj\Debug\Collections.exe
+C:\Users\Sohail Kaiser\Desktop\C#- Coding tasks\Collections\Collections\obj\Debug\Collections.pdb
